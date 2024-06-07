@@ -1,0 +1,5 @@
+﻿  SimpleIPLookup.cpp
+C:\Users\0\Desktop\IPLookup C++\SimpleIPLookup\SimpleIPLookup\SimpleIPLookup.cpp(54,38): warning C4101: 'e': unreferenced local variable
+  SimpleIPLookup.vcxproj -> C:\Users\0\Desktop\IPLookup C++\SimpleIPLookup\x64\Debug\SimpleIPLookup.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
